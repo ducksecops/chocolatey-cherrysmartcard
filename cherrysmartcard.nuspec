@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>cherrysmartcard</id>
+    <version>3.3.0.9</version>
+    <title>Cherry Smartcard Drivers</title>
+    <authors>Cherry GmbH</authors>
+    <owners>ducksecops</owners>
+    <projectUrl>https://cherry.de</projectUrl>
+    <iconUrl>https://www.cherry.co.uk/media/theme_options/default/favicon.png</iconUrl>
+    <packageSourceUrl>https://github.com/ducksecops/chocolatey-cherrysmartcard</packageSourceUrl>
+    <docsUrl>https://www.cherry.de/files/manual/6440615-00_DE-GB-FR-ES-IT_TC11-12-1300.pdf</docsUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Windows drivers for Cherry range of smartcard devices including TC1100, TC1200 and TC1300. Setup package includes PC/SC drivers, CT-Api Service Provider, Secure Service Provider (for protected PIN-entry via PC/SC), Documentation of the Secure Service Provider and Programming samples in VC and VB</description>
+    <summary>Cherry Smartcard Windows Drivers</summary>
+    <tags>cherrysmartcard drivers smartcard</tags>
+  </metadata>
+</package>
